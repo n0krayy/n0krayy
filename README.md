@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating Tools and Bot Automation 
-- 📚 I'm currently learning more about automation programs 🤖 and Cybersecurity 👻
+- 📚 I'm currently learning more about automation programs and Cybersecurity
 - 🎯 Goals: creating tools that can facilitate activities in exploring the internet
 
 ---
